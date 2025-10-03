@@ -1,7 +1,7 @@
 FROM wordpress:php8.2-apache
 
-# Install mysqli extension for MySQL
-RUN docker-php-ext-install mysqli && docker-php-ext-enable mysqli
+# Copy wp-config.php
+COPY app/public/wp-config.php /var/www/html/wp-config.php
 
-# Copy WordPress files into the container
-COPY app/public/ /var/www/html/
+# Copy your themes, plugins, uploads
+COPY app/public/wp-content/ /var/www/html/wp-content/
