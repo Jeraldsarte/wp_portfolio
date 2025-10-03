@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap-stylesheet.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>/</loc>
+    <lastmod>2025-10-02T02:06:22+08:00</lastmod>
+    <image:image>
+      <image:loc>/wp-content/uploads/2025/09/passport_size_id_copy-removebg-preview-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2021/02/section-1-bg1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2021/02/computer.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2021/02/ads.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2021/02/settings.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2025/10/Screenshot-11-e1759337198699-1024x543.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>/wp-content/uploads/2025/10/Screenshot-12-e1759339775962-1024x449.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://s.w.org/images/core/emoji/16.0.1/svg/1f4e7.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://s.w.org/images/core/emoji/16.0.1/svg/1f4cd.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://s.w.org/images/core/emoji/16.0.1/svg/1f4f1.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,3 @@
+# Redirect old links to new ones (SEO friendly)
+# e.g., if you rename "about-me" to "about"
+https://yourdomain.com/about-me  /about  301

@@ -1,0 +1,49 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore LocalWP system folders
+conf/
+logs/
+
+# Ignore log files
+*.log
+*.sql
+*.tar.gz
+*.zip
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore Node dependencies (if you’re using npm/yarn)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore OS & IDE files
+.vscode/
+.idea/
+*.swp
+
+# Ignore WordPress core (if you're committing only wp-content)
+wp-admin/
+wp-includes/
+
+# Ignore uploads (media files shouldn’t be versioned)
+wp-content/uploads/
+
+# Ignore cache files
+wp-content/cache/
+wp-content/advanced-cache.php
+
+# Ignore backup and config files
+wp-content/backups/
+wp-config.php
+wp-config-*.php
+
+# Ignore other sensitive or auto-generated files
+sitemap.xml
+sitemap.xml.gz
+.htaccess
+robots.txt
